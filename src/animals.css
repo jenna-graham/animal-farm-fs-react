@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+
+}
+.animal {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+p {
+    width: 100px;
+}
