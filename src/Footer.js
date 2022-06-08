@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Footer() {
-  return <footer>hey</footer>;
+  return <footer>jclayto2@gmail.com | Alchemy 2022</footer>;
 }
