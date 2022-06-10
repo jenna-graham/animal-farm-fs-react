@@ -10,9 +10,9 @@ import './App.css';
 export default function App() {
   return (
     <div className='App'>
-      <Header />
+      <Header welcome={'Animal Farm'}/>
       <Main animals={animals}/>
-      <Footer /> 
+      <Footer email={'jclayto2@gmail.com'}/> 
     </div>
   );
 }
